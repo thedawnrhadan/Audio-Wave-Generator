@@ -6,7 +6,6 @@ This program generates audio waveforms and saves them as a WAV file. It allows t
 
 The program uses the byteorder and rand crates for generating the audio data and random frequency (if "random" is specified as the frequency argument), respectively.
 
-[Software Demo Video](https://youtu.be/s65HqQkZ1sU)
 
 # Development Environment
 
